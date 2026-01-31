@@ -4,7 +4,7 @@ Bu projede, düşük genlikli EKG sinyallerinin şartlandırılması için op-am
 
 ## Devre Şeması
 <p align="center">
-  <img src="images/Sematik.png" width="600">
+  <img src="Sematik.png" width="600">
 </p>
 
 Devre; INA128 enstrümantasyon yükselteci, Right Leg Drive (RLD) katmanı ve aktif filtre bloklarından oluşmaktadır.
@@ -21,14 +21,14 @@ Devre; INA128 enstrümantasyon yükselteci, Right Leg Drive (RLD) katmanı ve ak
 
 ## PCB Yerleşimi
 <p align="center">
-  <img src="images/PCB.png" width="600">
+  <img src="PCB.png" width="600">
 </p>
 
 PCB tasarımında analog sinyal yolları kısa tutulmuş, gürültüye hassas katmanlar güç hatlarından ayrılmıştır.
 
 ## 3B Kart Görünümü
 <p align="center">
-  <img src="images/PCB_3D.png" width="500">
+  <img src="PCB_3D.png" width="500">
 </p>
 
 3B model, bileşen yerleşimi ve mekanik uyumu doğrulamak amacıyla oluşturulmuştur.
